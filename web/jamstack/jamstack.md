@@ -25,3 +25,4 @@
 - [Biggest tradeoff of going with JAMstack (2021)](https://twitter.com/brianleroux/status/1428818839408611328)
 - [Jamstack Conf Keynote 2021: How it Started; How it's Going | Matt Biilmann](https://www.youtube.com/watch?v=phC14xfwvjc)
 - [What is decoupling, actually? (2021)](https://dev.to/netlify/what-is-decoupling-actually-5agj)
+- [Building SaaS Products with Next JS SSG (JAMStack) and Serverless](https://creativedesignsguru.com/saas-tech-stack/)
